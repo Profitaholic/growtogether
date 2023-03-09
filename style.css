@@ -1,0 +1,73 @@
+.logo-brand {
+    display: flex;
+    align-items: center;
+}
+
+.brand {
+    letter-spacing: 1rem;
+    font-weight: bold;
+}
+
+.background-image-container {
+    position:relative;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:top;
+    padding:12% 0}
+
+    .brand-text {
+        color: rgb(16,64,70)
+    }
+
+    .network {
+        background-color: lightgray;
+        padding: 0 2rem;
+        border-radius: 2rem;
+        height: 25rem;
+        border: 3px solid black;
+        margin-top: 2.5rem;
+    }
+
+    .different {
+        background-color: white;
+        border: 3px solid black;
+        margin-top: .5rem;
+    }
+
+    .second-section-heading {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .about-him {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .about-two {
+        width: 60%;
+        text-align: center;
+        border: 3px solid black;
+        border-radius: 2rem;
+        margin-left: 1rem;
+    }
+
+    .mission-two {
+        width: 30%;
+        text-align: center;
+        border: 3px solid black;
+        border-radius: 30rem;
+    }
+
+    .about-title {
+        font-weight: bold;
+        font-size: 2.5rem;
+    }
+
+    .personal-story {
+        margin-top: 2rem;
+        text-align: center;
+        border: 3px solid black;
+        padding: 0 1rem 0 1rem;
+    }
